@@ -1,1 +1,1 @@
-# parctica-READ
+# practica-READ
